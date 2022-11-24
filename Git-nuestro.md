@@ -8,4 +8,4 @@ Danos hoy nuestro pull de cada día
 Perdona nuestros conflictos
 Como también perdonamos a los de otros geeks.
 Y líbranos del SVN 
-Amend
+git commit --amend
